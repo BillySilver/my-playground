@@ -1,0 +1,103 @@
+          [% 100 / 10] [/ 10 % 100]
+  1) Consume:  15.9160  14.7940 (secs)
+  2) Consume:  14.9610  14.6700 (secs)
+  3) Consume:  14.4890  14.7730 (secs)   v
+  4) Consume:  14.5110  14.9510 (secs)   v
+  5) Consume:  15.5090  18.2260 (secs)   v
+  6) Consume:  15.9430  14.9110 (secs)
+  7) Consume:  14.5310  17.6990 (secs)   v
+  8) Consume:  16.3570  14.7270 (secs)
+  9) Consume:  14.7850  14.5570 (secs)
+ 10) Consume:  16.8100  15.1250 (secs)
+ 11) Consume:  14.6110  14.7240 (secs)   v
+ 12) Consume:  14.7260  14.7120 (secs)
+ 13) Consume:  14.5860  14.5630 (secs)
+ 14) Consume:  14.4980  14.6550 (secs)   v
+ 15) Consume:  16.6690  17.5220 (secs)   v
+ 16) Consume:  14.9940  15.0260 (secs)   v
+ 17) Consume:  14.6030  15.0580 (secs)   v
+ 18) Consume:  17.4900  14.7680 (secs)
+ 19) Consume:  14.5420  14.6080 (secs)   v
+ 20) Consume:  14.5220  14.6790 (secs)   v
+ 21) Consume:  14.5280  14.6360 (secs)   v
+ 22) Consume:  14.6040  14.5680 (secs)
+ 23) Consume:  14.5430  14.5100 (secs)
+ 24) Consume:  14.4640  14.4900 (secs)   v
+ 25) Consume:  14.6710  17.8690 (secs)   v
+ 26) Consume:  14.6160  14.7680 (secs)   v
+ 27) Consume:  14.5140  15.4400 (secs)   v
+ 28) Consume:  15.4670  14.6820 (secs)
+ 29) Consume:  14.5170  14.7550 (secs)   v
+ 30) Consume:  14.7570  14.5050 (secs)
+ 31) Consume:  14.5480  14.8170 (secs)   v
+ 32) Consume:  14.4490  14.6130 (secs)   v
+ 33) Consume:  14.5240  14.6600 (secs)   v
+ 34) Consume:  14.5630  14.7630 (secs)   v
+ 35) Consume:  15.0700  18.1130 (secs)   v
+ 36) Consume:  15.0520  14.7320 (secs)
+ 37) Consume:  14.6560  14.5950 (secs)
+ 38) Consume:  16.6990  14.6240 (secs)
+ 39) Consume:  14.5900  14.6290 (secs)   v
+ 40) Consume:  14.5700  14.7120 (secs)   v
+ 41) Consume:  15.2410  14.7820 (secs)
+ 42) Consume:  14.5150  14.7670 (secs)   v
+ 43) Consume:  14.6840  14.5760 (secs)
+ 44) Consume:  14.6280  14.6340 (secs)   v
+ 45) Consume:  14.4480  16.2930 (secs)   v
+ 46) Consume:  16.4850  14.8520 (secs)
+ 47) Consume:  14.5120  14.6800 (secs)   v
+ 48) Consume:  16.3620  14.7690 (secs)
+ 49) Consume:  14.4380  14.6850 (secs)   v
+ 50) Consume:  14.5670  14.6640 (secs)   v
+ 51) Consume:  14.5980  15.2360 (secs)   v
+ 52) Consume:  14.5120  14.6860 (secs)   v
+ 53) Consume:  14.5950  14.6810 (secs)   v
+ 54) Consume:  14.4000  14.6710 (secs)   v
+ 55) Consume:  14.3410  15.0050 (secs)   v
+ 56) Consume:  17.9720  14.8370 (secs)
+ 57) Consume:  14.6510  14.6030 (secs)
+ 58) Consume:  15.0450  16.0050 (secs)   v
+ 59) Consume:  14.5740  14.6950 (secs)   v
+ 60) Consume:  14.6770  14.6150 (secs)
+ 61) Consume:  14.5420  14.9000 (secs)   v
+ 62) Consume:  14.5200  14.7520 (secs)   v
+ 63) Consume:  14.3800  14.7870 (secs)   v
+ 64) Consume:  14.5250  14.5840 (secs)   v
+ 65) Consume:  14.5160  14.5790 (secs)   v
+ 66) Consume:  16.7810  15.8270 (secs)
+ 67) Consume:  14.5870  14.7150 (secs)   v
+ 68) Consume:  14.5640  16.6400 (secs)   v
+ 69) Consume:  14.3110  14.6040 (secs)   v
+ 70) Consume:  14.5770  14.7440 (secs)   v
+ 71) Consume:  14.5840  14.7070 (secs)   v
+ 72) Consume:  14.4620  14.9650 (secs)   v
+ 73) Consume:  14.5050  14.6840 (secs)   v
+ 74) Consume:  14.5940  14.7140 (secs)   v
+ 75) Consume:  14.4590  14.7490 (secs)   v
+ 76) Consume:  15.3530  17.1580 (secs)   v
+ 77) Consume:  14.5350  14.9360 (secs)   v
+ 78) Consume:  14.5210  15.6170 (secs)   v
+ 79) Consume:  17.2610  14.5380 (secs)
+ 80) Consume:  14.6260  14.6580 (secs)   v
+ 81) Consume:  14.7940  16.7850 (secs)   v
+ 82) Consume:  14.4660  14.5800 (secs)   v
+ 83) Consume:  14.4860  14.5670 (secs)   v
+ 84) Consume:  14.5400  14.6720 (secs)   v
+ 85) Consume:  15.0590  14.6120 (secs)
+ 86) Consume:  14.5130  18.6830 (secs)   v
+ 87) Consume:  15.1050  14.5900 (secs)
+ 88) Consume:  14.5370  15.9720 (secs)   v
+ 89) Consume:  15.4090  14.6710 (secs)
+ 90) Consume:  14.6470  15.6240 (secs)   v
+ 91) Consume:  16.7760  14.8290 (secs)
+ 92) Consume:  14.6570  15.3340 (secs)   v
+ 93) Consume:  14.4490  14.6830 (secs)   v
+ 94) Consume:  14.6510  14.6250 (secs)
+ 95) Consume:  14.4970  14.8220 (secs)   v
+ 96) Consume:  14.3180  18.7590 (secs)   v
+ 97) Consume:  17.2930  14.9710 (secs)
+ 98) Consume:  14.5500  14.6810 (secs)   v
+ 99) Consume:  17.6840  16.7990 (secs)
+100) Consume:  17.0860  14.7180 (secs)
+Avg:           14.9942  15.1280
+Var:            0.7673   0.9608
