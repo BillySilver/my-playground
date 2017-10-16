@@ -18,8 +18,8 @@ def merge(array, L, R):         # Conquer.
     L_idx = L
     R_idx = M + 1
     k     = L
-    while L_idx <= M and R_idx <= R:
-        if array[L_idx] <= array[R_idx]:
+    while L_idx <= M or R_idx <= R:
+        if L_idx <= M and (R_idx > R or array[L_idx] <= array[R_idx]):
             tmp[k] = array[L_idx]
             k      += 1
             L_idx  += 1
@@ -30,16 +30,6 @@ def merge(array, L, R):         # Conquer.
             tmp[k]  = array[R_idx]
             k       += 1
             R_idx   += 1
-
-    # One side reaches its right bound, but another side doesn't yet.
-    while L_idx <= M:
-        tmp[k] = array[L_idx]
-        k += 1
-        L_idx += 1
-    while R_idx <= R:
-        tmp[k] = array[R_idx]
-        k += 1
-        R_idx += 1
 
     for i in range(L, R + 1):
         array[i] = tmp[i]
